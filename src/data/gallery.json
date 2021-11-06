@@ -1,0 +1,26 @@
+[
+  {
+    "img": "../assets/images/gallery-1.jpg",
+    "alt": "exhibition",
+    "name": "Antiquities",
+    "button": "Book Now"
+  },
+  {
+    "img": "../assets/images/gallery-2.jpg",
+    "alt": "exhibition",
+    "name": "Picasso Ingres",
+    "button": "Book Now"
+  },
+  {
+    "img": "../assets/images/gallery-3.jpg",
+    "alt": "exhibition",
+    "name": "Curator's introduction Poussin and the Dance",
+    "button": "Book Now"
+  },
+  {
+    "img": "../assets/images/gallery-4.jpg",
+    "alt": "exhibition",
+    "name": "Women artists",
+    "button": "Book Now"
+  }
+]
