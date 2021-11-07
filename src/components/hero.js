@@ -12,9 +12,9 @@ const Hero = () => {
       </HeroBg>
       <HeroContent>
         <HeroItems>
-          <HeroH1>Unreal Destinations</HeroH1>
-          <HeroP>Out of this World</HeroP>
-          <Button primary="true" big="true" round="true" to="/gallery">Travel Now</Button>
+          <HeroH1>Welcome</HeroH1>
+          <HeroP> Your Art Space</HeroP>
+          <Button primary="true" big="true" round="true" to="/gallery">Take a Tour</Button>
         </HeroItems>
       </HeroContent>
     </HeroContainer>
@@ -71,7 +71,7 @@ const HeroContent = styled.div`
   z-index: 3;
   height: calc(100vh - 80px);
   max-height: 100%;
-  padding: calc((100vw - 1300px) / 2);
+  padding: calc((100vw - 1200px) / 2);
 `
 
 const HeroItems = styled.div`

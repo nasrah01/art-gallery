@@ -2,19 +2,19 @@
   {
     "img": "../assets/images/gallery-1.jpg",
     "alt": "exhibition",
-    "name": "Antiquities",
+    "name": "Picasso Ingres",
     "button": "Book Now"
   },
   {
     "img": "../assets/images/gallery-2.jpg",
     "alt": "exhibition",
-    "name": "Picasso Ingres",
+    "name": "Antiquities",
     "button": "Book Now"
   },
   {
     "img": "../assets/images/gallery-3.jpg",
     "alt": "exhibition",
-    "name": "Curator's introduction Poussin and the Dance",
+    "name": "Poussin and the Dance",
     "button": "Book Now"
   },
   {
