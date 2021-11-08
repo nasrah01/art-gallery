@@ -13,8 +13,8 @@ const Hero = () => {
       <HeroContent>
         <HeroItems>
           <HeroH1>Welcome</HeroH1>
-          <HeroP> Your Art Space</HeroP>
-          <Button primary="true" big="true" round="true" to="/gallery">Take a Tour</Button>
+          <HeroP>A year of inspiring art</HeroP>
+          <Button primary="true" big="true" round="true" to="/gallery">Join today</Button>
         </HeroItems>
       </HeroContent>
     </HeroContainer>

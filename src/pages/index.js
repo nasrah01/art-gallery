@@ -4,6 +4,9 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 import Gallery from '../components/gallery'
 import Stories from '../components/stories'
+import Events from '../components/events'
+import Email from '../components/email'
+
 
 const IndexPage = () => (
   <Layout>
@@ -11,6 +14,8 @@ const IndexPage = () => (
     <Hero />
     <Gallery heading="Exhibitions"/>
     <Stories />
+    <Events />
+    <Email />
   </Layout>
 )
 

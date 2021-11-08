@@ -5,7 +5,7 @@ import {IoMdCheckmarkCircleOutline} from 'react-icons/io'
 import {FaRegLightbulb} from 'react-icons/fa'
 import { useStaticQuery, graphql } from 'gatsby'
 
-function Stories() {
+const Stories = () => {
   const data = useStaticQuery(graphql`
   query StoriesQuery {
     allFile(
@@ -41,8 +41,7 @@ function Stories() {
           <Story>
             <FaRegLightbulb css={`font-size: 2rem; margin-bottom: .5rem;`} />
             <h3>Behind the scenes</h3>
-            <p>Take a look at what happens behind the scenes when we work on conserving our paintings, prepare for exhibition halls and how we aquire
-              art.
+            <p>Take a look at what happens behind the scenes when we work on conserving our paintings, preparing exhibition halls and art aquisition.
             </p>
           </Story>
         </ColumnOne>
